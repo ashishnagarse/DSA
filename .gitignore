@@ -31,6 +31,6 @@
 *.out
 *.app
 
-/TLE/*.cph
-/TLE/*.vscode
-/TLE/*.vs
+*.cph
+*.vscode
+*.vs
